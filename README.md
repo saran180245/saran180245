@@ -22,3 +22,7 @@ Then paste updated content into README.md and commit changes.
 Useful Websites
 
 readme-typing-svg | skillicons.dev | github-readme-stats | shields.io
+
+Follow for More ❤■
+
+Follow @startwith.surya for more coding, AI and developer content ■
